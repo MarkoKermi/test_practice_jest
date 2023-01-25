@@ -1,0 +1,23 @@
+{
+  "name": "test_practice_jest",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkoKermi/test_practice_jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkoKermi/test_practice_jest/issues"
+  },
+  "homepage": "https://github.com/MarkoKermi/test_practice_jest#readme",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}
